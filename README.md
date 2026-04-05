@@ -121,6 +121,8 @@ These can be version-controlled and shared with collaborators.
 
 ---
 
+<<<<<<< HEAD
+=======
 ## Troubleshooting
 
 **Issue:** Application won't start
@@ -134,6 +136,7 @@ These can be version-controlled and shared with collaborators.
 
 ---
 
+>>>>>>> 61442ddfe1f5abca705c53e7cf06be273a0fb287
 ## Credits
 
 **Developer:** youl_13 (discord)
@@ -187,4 +190,8 @@ https://discord.gg/cRjHuT9hCp
 
 *Support the Great War - Sultan Sea mod development*
 
+<<<<<<< HEAD
+© 2026 Sultan Sea Studio. All Rights Reserved.
+=======
 2026 Sultan Sea Studio. All Rights Reserved.
+>>>>>>> 61442ddfe1f5abca705c53e7cf06be273a0fb287
