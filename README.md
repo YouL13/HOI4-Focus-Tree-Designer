@@ -146,8 +146,6 @@ This software is the proprietary property of Sultan Sea Studio. All rights reser
 - ✓ Community contribution support
 - ✓ Non-commercial modifications for private use
 
-For complete license details, see `LICENSE.txt` included with this software.
-
 ---
 
 ## Support & Community
