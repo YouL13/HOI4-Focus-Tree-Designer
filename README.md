@@ -121,6 +121,20 @@ These can be version-controlled and shared with collaborators.
 
 ---
 
+## Troubleshooting
+
+**Issue:** Application won't start
+- **Solution:** Ensure Windows 10+ and 64-bit system. Re-run installer.
+
+**Issue:** Cannot find save location
+- **Solution:** Check file permissions in `Documents` folder. Run as Administrator if needed.
+
+**Issue:** Export creates invalid HOI4 syntax
+- **Solution:** Verify focus IDs use valid characters. Export locations must be integers. Check HOI4 documentation.
+
+---
+
+>>>>>>> 61442ddfe1f5abca705c53e7cf06be273a0fb287
 ## Credits
 
 **Developer:** youl_13 (discord)
@@ -174,4 +188,4 @@ https://discord.gg/cRjHuT9hCp
 
 *Support the Great War - Sultan Sea mod development*
 
-© 2026 Sultan Sea Studio. All Rights Reserved.
+2026 Sultan Sea Studio. All Rights Reserved.
